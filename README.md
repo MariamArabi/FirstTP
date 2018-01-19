@@ -9,4 +9,12 @@ Disons que nous voulons montrer comment la présence d'une équipe sportive a va
 Avec un calendar chart, nous pouvons utiliser la luminosité pour indiquer les valeurs et laisser les gens voir les tendances en un coup d'œil:
 ![calendarchart1](https://user-images.githubusercontent.com/35372804/35143466-f122af22-fd01-11e7-8cab-184d9c940b23.PNG)
 Encore mieux, on peut passer la souris sur les jours individuels pour voir les valeurs de données sous-jacentes.
-### Exemple 2
+### Exemple 2 : un calendar chart classique et utilisé par tous
+Le calendier est le graphique utilisé par tous. Il permet de visualiser les jours, les plannings, les évènement... :
+
+![claendarchart2](https://user-images.githubusercontent.com/35372804/35143655-86741dcc-fd02-11e7-91f2-34a0e0fbaec7.PNG)
+
+### Exemple 3 : carte de chaleur
+Le graphique ci-dessous permet de montrer l'historique (ou les prévisions) de la température dans une région donnée. Dans cet exemple, il est accompagné d'un calcul de la moyenne de la température sur les mois, d'une courbe qui montre l'évolution en temps réel de la température et de la variation de la température moyenne sur les semaines :
+
+
