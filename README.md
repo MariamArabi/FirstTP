@@ -7,3 +7,6 @@ Les calendar charts sont rendus dans le navigateur en utilisant SVG ou VML, selo
 ### Exemple 1 : classique
 Disons que nous voulons montrer comment la présence d'une équipe sportive a varié tout au long de la saison. 
 Avec un calendar chart, nous pouvons utiliser la luminosité pour indiquer les valeurs et laisser les gens voir les tendances en un coup d'œil:
+![calendarchart1](https://user-images.githubusercontent.com/35372804/35143466-f122af22-fd01-11e7-8cab-184d9c940b23.PNG)
+Encore mieux, on peut passer la souris sur les jours individuels pour voir les valeurs de données sous-jacentes.
+### Exemple 2
